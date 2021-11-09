@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 // import 'Inicio.dart';
 // import 'General.dart';
 //Prueba de github
+//rama app2
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   Firebase.initializeApp();
